@@ -1,1 +1,2 @@
-taip notes pembelajaran
+notes pembelajaran
+- Read = git log + git diff
