@@ -15,3 +15,4 @@ Belajar git workflow local.
 ## Tarikh
 >>>>>>> fix-tajuk
 ## Diubah dari laptop
+## Diubah dari salinan kedua
