@@ -1,4 +1,4 @@
-Sesi Git 1
+# Projek Bootcamp Git 2026
 Sesi Git 2
 ## Tujuan
 Belajar git workflow local.
